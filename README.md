@@ -1,12 +1,8 @@
-# Abogabot
+# **Abogabot**
 
-<br/>
-
-## Requerimientos
-
-### Abstracción
+## Objetivo
 Desarrollar una **página web** para ***automatizar las demandas de los clientes***.
 
-### Definición
+<hr/>
 
 ![Specifications](./images/specifications_hd.png)
