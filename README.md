@@ -13,4 +13,4 @@ Desarrollar una **página web** para ***automatizar las demandas de los clientes
 
 ### Representación gráfica del flujo de operación
 
-![Operation_flowchart](./images/flow_chart.png)
+![Operation_flowchart](./images/flowchart.png)
