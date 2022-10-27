@@ -9,8 +9,10 @@ Desarrollar una **página web** para ***automatizar las demandas de los clientes
 
 ![Specifications](./images/specifications.png)
 
-<hr/>
+<br/>
 
 ### Representación gráfica del flujo de operación
+
+<hr/>
 
 ![Operation_flowchart](./images/flowchart.png)
